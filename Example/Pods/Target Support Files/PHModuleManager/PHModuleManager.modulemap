@@ -1,6 +1,0 @@
-framework module PHModuleManager {
-  umbrella header "PHModuleManager-umbrella.h"
-
-  export *
-  module * { export * }
-}
