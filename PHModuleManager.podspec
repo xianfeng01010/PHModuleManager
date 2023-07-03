@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
     spec.name             = 'PHModuleManager'
-    spec.version          = "0.0.1"
+    spec.version          = "0.0.2"
     spec.license          = { :type => 'MIT' }
     spec.homepage         = 'https://github.com/xianfeng01010'
     spec.platform         = :ios, "9.0"

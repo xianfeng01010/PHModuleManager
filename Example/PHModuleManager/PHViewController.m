@@ -7,7 +7,6 @@
 //
 
 #import "PHViewController.h"
-#import "<PHModuleManager/PHServiceManager.h>"
 
 @interface PHViewController ()
 
